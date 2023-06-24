@@ -27,13 +27,13 @@ const Footer = () => {
                     Advanced Web Programming | 
                 </div>
                 <div className="socialIcons">
-                    <span className="icon" href="">
+                    <span className="icon" href="https://www.facebook.com/marisse.lt">
                         <FaFacebookF />
                     </span>
-                    <span className="icon">
+                    <span className="icon" href="https://www.instagram.com/lorrieemarissee/">
                         <FaInstagram />
                     </span>
-                    <span className="icon">
+                    <span className="icon" href="https://github.com/Neytiri3">
                         <FaTwitter />
                     </span>
                     <span className="icon">
